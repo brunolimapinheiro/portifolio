@@ -1,0 +1,16 @@
+ .work{
+    padding: 10px;
+    margin: 5%;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: all 0.5s;
+    display: flex;
+    flex-direction: row;
+    font-size: 80px
+
+}
+
+
+.imge{
+    margin-bottom: 100px;
+}

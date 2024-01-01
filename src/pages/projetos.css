@@ -1,0 +1,27 @@
+.projects{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+.projects >.project{
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    background-color:#FFFA84;
+    padding: 50px;
+    font-weight: bold;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 10%;
+    font-size: 30px;
+}
+.projects > .project:hover{
+    cursor: pointer;
+    background-color: #5ED4FF;
+    transform: translateX(30);
+    font-size: 35px;
+    transition: all 0.5s;
+    
+}
